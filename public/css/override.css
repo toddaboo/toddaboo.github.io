@@ -77,15 +77,15 @@ h1, h2, h3, h4, h5, h6 {
   color: #c0c0c0;
   letter-spacing: 0;
 }
-
 .masthead-title-logo {
   height: 10rem;
   width: 10rem;
   border-radius: 50%;
+  float: left;
 }
 
 @media (max-width: 48em) {
-  .masthead-title {
+  .masthead-title, .masthead-title-logo {
     text-align: center;
   }
   .masthead-title small {
