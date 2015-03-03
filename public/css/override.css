@@ -443,6 +443,20 @@ a.pagination-item:hover {
   color: #90a959;
 }
 
+/* Dark Gray + Light Blue */
+.theme-base-2b .sidebar,
+.theme-base-2b .sidebar-toggle:active,
+.theme-base-2b #sidebar-checkbox:checked ~ .sidebar-toggle {
+  background-color: #2B2B2B;
+}
+.theme-base-2b .container a {
+  color: #2980B9;
+}
+.theme-base-2b .sidebar-toggle,
+.theme-base-2b .related-posts li a:hover {
+  color: #2B2B2B;
+}
+
 /* Cyan */
 .theme-base-0c .sidebar,
 .theme-base-0c .sidebar-toggle:active,
