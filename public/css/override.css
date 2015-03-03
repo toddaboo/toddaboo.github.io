@@ -63,10 +63,12 @@ h1, h2, h3, h4, h5, h6 {
   margin-bottom: 3rem;
   border-bottom: 1px solid #eee;
 }
+.masthead .container {
+  vertical-align: middle;
+}
 .masthead-title {
   margin-top: 0;
   margin-bottom: 0;
-  vertical-align: middle;
   color: #505050;
 }
 .masthead-title a {
