@@ -20,8 +20,10 @@ paginate:            5
 # About/contact
 author:
   name:              Todd Grabowsky
-  url:               https://twitter.com/toddaboo
+  twitter:           https://twitter.com/toddaboo
+  facebook:			 http://facebook.com/toddgrabowsky
   email:             todd.grabowsky@gmail.com
+  git:			 	 http://github.com/toddaboo
 
 # Custom vars
 version:             1.0.0
