@@ -449,7 +449,7 @@ a.pagination-item:hover {
 .theme-base-2b #sidebar-checkbox:checked ~ .sidebar-toggle {
   background-color: #2B2B2B;
 }
-.theme-base-2b .container ul li p a {
+.theme-base-2b .container, ul a, li a, p a {
   color: #962D3E;
 }
 .theme-base-2b .sidebar-toggle,
