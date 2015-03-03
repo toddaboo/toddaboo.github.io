@@ -3,10 +3,8 @@ layout: page
 title: Projects
 ---
 
-<ul class="post-list">
-{% for post in paginator.posts %}
-  <li><article><i class="icon-star-half-empty"></i> <a href="{{ site.url }}{{ post.url }}">{{ post.title }} <span class="post-date">{{ post.date | date_to_string }}</span></a></article></li>
-{% endfor %}
-</ul>
+<p class="message">
+  coming soon...
+</p>
 
 
