@@ -9,7 +9,8 @@ permalink:           pretty
 relative_permalinks: true
 
 # Setup
-title:               toddgrabowsky
+title:               todd.grabowsky
+logo:				 toddaboo.png
 tagline:             ''
 description:         ''
 url:                 http://toddaboo.github.io
