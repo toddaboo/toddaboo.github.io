@@ -70,6 +70,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 .masthead-title a {
   color: #505050;
+  display: inline-block;
   vertical-align: middle;
 }
 .masthead-title small {
