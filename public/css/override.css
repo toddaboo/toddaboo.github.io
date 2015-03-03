@@ -81,8 +81,7 @@ h1, h2, h3, h4, h5, h6 {
   height: 10rem;
   width: 10rem;
   border-radius: 50%;
-  float: left;
-  display: block;
+  display: inline;
 }
 
 @media (max-width: 48em) {
@@ -91,7 +90,7 @@ h1, h2, h3, h4, h5, h6 {
   }
   .masthead-title-logo {
     text-align: center;
-    float: none;
+    display: block;
   }
   .masthead-title small {
     display: none;
