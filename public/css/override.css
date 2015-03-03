@@ -82,11 +82,16 @@ h1, h2, h3, h4, h5, h6 {
   width: 10rem;
   border-radius: 50%;
   float: left;
+  display: block;
 }
 
 @media (max-width: 48em) {
-  .masthead-title, .masthead-title-logo {
+  .masthead-title {
     text-align: center;
+  }
+  .masthead-title-logo {
+    text-align: center;
+    float: none;
   }
   .masthead-title small {
     display: none;
