@@ -50,7 +50,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 .masthead, .sidebar-toggle, .container .contents {
-  background: url("../img/geometry.png") repeat;
+  background: url("../img/crossword.png") repeat;
 }
 .contents {
   padding-top:4rem;
@@ -200,7 +200,7 @@ a.sidebar-nav-item:focus {
   width: 2.2rem;
   padding: .5rem .65rem;
   color: #505050;
-  /*background-color: #fff;*/
+  background-color: url("../img/crossword.png") repeat;
   border-radius: 4px;
   cursor: pointer;
 }
