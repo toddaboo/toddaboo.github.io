@@ -49,7 +49,7 @@ h1, h2, h3, h4, h5, h6 {
   }
 }
 
-.masthead, .sidebar-toggle, .container .contents {
+.masthead, .container .contents {
   background: url("../img/crossword.png") repeat;
 }
 .contents {
